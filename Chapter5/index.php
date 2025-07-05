@@ -33,7 +33,7 @@
                 <input type="number" class="form-control" id="price" name="price">
             </div>
             <div class="mb-3">
-                <label for="quantity" class="form-label">Quantity</label>
+                <label for="quantity" class="form-label">Stock</label>
                 <input type="number" class="form-control" id="quantity" name="quantity">
             </div>
             <div class="mb-3 form-check">
